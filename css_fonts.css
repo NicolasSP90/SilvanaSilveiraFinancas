@@ -1,0 +1,81 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: "Calibri";
+    src: url("Documentos\fontes\calibri.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Calibri Bold";
+    src: url("Documentos\fontes\calibrib.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Calibri Italic";
+    src: url("Documentos\fontes\calibrii.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Calibri Light";
+    src: url("Documentos/fontes/calibril.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Calibri Light Italic";
+    src: url("Documentos/fontes/calibrili.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Calibri Bold Italic";
+    src: url("Documentos/fontes/calibriz.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Leighton";
+    src: url("Documentos/fontes/Leighton.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "Univa Nova Bold";
+    src: url("Documentos/fontes/UnivaNova-Bold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Univa Nova Hairline";
+    src: url("Documentos/fontes/UnivaNova-Hairline.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Univa Nova Italic";
+    src: url("Documentos/fontes/UnivaNova-Italic.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Univa Nova Light";
+    src: url("Documentos/fontes/UnivaNova-Light.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Univa Nova Light Italic";
+    src: url("Documentos/fontes/UnivaNova-LightItalic.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Univa Nova Medium";
+    src: url("Documentos/fontes/UnivaNova-Medium.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Univa Nova Regular";
+    src: url("Documentos/fontes/UnivaNova-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Univa Nova Semi Bold";
+    src: url("Documentos/fontes/UnivaNova-SemiBold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Univa Nova Thin";
+    src: url("Documentos/fontes/UnivaNova-Thin.ttf") format("truetype");
+}

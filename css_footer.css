@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+footer{
+    width: 100%;
+    background-color: #dab7ba;
+}
+
+.footercentralizado{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contato{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.contacticon {
+    width: 50px;
+}

@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+*{margin: 0%}
+
+h1, h2 {
+    color: #dab7ba;
+    font-family: "Leighton";}
+
+
+article {font-family: "Univa Nova";}
+
+p {font-family: "Univa Nova";}
+
+a {color: black;}
+
+a:link, a:visited { text-decoration: none;}
+
+nav {font-family: "Univa Nova Semi Bold";}
+
+body{
+    height: 100%;
+    overflow-x: hidden;
+}

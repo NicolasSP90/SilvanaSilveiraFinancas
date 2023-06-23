@@ -1,0 +1,199 @@
+@charset "UTF-8";
+
+main{
+    width: 100%;
+    background-color: #ebd9da;
+}
+
+.mainbox{
+    width: 100%;
+}
+
+/* First Section */
+.firstsection {
+    display: flex;
+    width: 100%;
+    height: 500px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+/* First Section - LEFT*/
+.firstsectionleft {
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.firstsectionleftimg {
+    width: 50%;
+}
+
+/* First Section - CENTER*/
+.firstsectioncenter{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.firstsectiontext {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    font-size: 40px;
+}
+
+.author{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+/* First Section - RIGHT*/
+.firstsectionright {
+    width: 300px;
+    display: flex;
+    justify-content: right;
+    align-self: flex-end;
+
+}
+
+.firstsectionrightimg{
+    width: 150px;
+    position: relative;
+    bottom: 10px;
+    right: 0px;
+}
+
+/* Second Section */
+.secondsection {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+}
+
+.secondsectiontop {
+    display: flex;
+    position: relative;
+}
+
+.secondsectiontopimg {
+    width: 100%;
+}
+
+.secondsectiontoptext {
+    position: absolute;
+    bottom: 50px;
+    left: 50px;
+    font-size: 25pt;
+    color: #dab7ba;
+    font-family: "Leighton";
+}
+
+.secondsectionmiddle{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    height: 200px;
+}
+
+.secondsectionmiddletext{
+    width: 60%;
+    color: #304c5b;
+    font-size: 20pt;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    align-items: center;
+    display: flex;
+}
+
+/* Third Section */
+.thirdsection {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+}
+
+.thirdsectiontop {
+    display: flex;
+    height: 150px;
+    width: 100%;
+    background-color: #304c5b;
+    align-items: end;
+    padding-bottom: 15px;
+    justify-content: center;
+    gap: 15px;
+}
+
+.thirdsectiontoptitleimgcont{
+    height: 80px;
+    display: flex;
+}
+
+.thirdsectiontoptitleimg{
+    width: 100%;
+    height: 100%;
+}
+
+.thirdsectionbottom{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    height: 200px;
+}
+
+.thirdsectionbottomtext{
+    width: 60%;
+    color: #304c5b;
+    font-size: 20pt;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    align-items: center;
+    display: flex;
+}
+
+/* Fourth Section */
+.fourthsection{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.fourthsectionbox{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+
+.fourthsectionimg{
+    width: 100%;
+}
+
+.fourthsectiontext{
+    display: flex;
+    width: 100%;
+    color: black;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Fifht Section */
+.fifthsection{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    
+}
+
